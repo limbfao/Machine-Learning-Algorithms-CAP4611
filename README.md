@@ -1,2 +1,4 @@
 # Machine-Learning-Algorithms-CAP4611
-EDA's for projects in my ML Class.
+
+Projects for my ML class.
+I got an A on all the assignments and an A in the class.
